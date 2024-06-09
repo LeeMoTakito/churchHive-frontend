@@ -1,0 +1,17 @@
+.heroImg {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.light p {
+    font-weight: 200;
+}
+
+.link {
+    color: #F48C06;
+}
